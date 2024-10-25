@@ -1,0 +1,44 @@
+body{
+
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(https://t3.ftcdn.net/jpg/02/71/06/36/360_F_271063601_bF8ukMjLRIjK72cHpO79NJNY1bgmUACv.jpg);
+    background-size: cover;
+
+}
+
+h1{
+
+    font-size: 3rem;
+    color: rgb(2, 2, 2);
+    text-decoration: underline;
+
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+
+p{
+
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    color: #000000;
+    font-weight: boldx  ;
+}
+
+button{
+
+    padding: 10px;
+    font-size: 1.1rem;
+    margin-top: 50px;
+    cursor: pointer;
+    background-color: rgb(217, 212, 206);
+    border: 2px solid black;
+
+}
+
+button:hover {
+
+    background-color: rgb(17, 195, 211);
+}
